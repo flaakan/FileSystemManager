@@ -8,5 +8,4 @@ This program is written by [Johnny Hoang](https://github.com/flaakan).
 * Navigate to the project.
 
 ### Compile:
-* Inside the project run the command: javac -d out -sourcepath . src/FileManagerSystem.java src/*/*.java
-`<addr>`
+* Inside the project run the command: `javac -d out -sourcepath . src/FileManagerSystem.java src/*/*.java`
