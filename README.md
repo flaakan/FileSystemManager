@@ -11,7 +11,7 @@ This program is written by [Johnny Hoang](https://github.com/flaakan).
 ![](/instructions.PNG)
 
 ### Compile:
-* While inside the project run the command: `javac -d out -sourcepath . src/FileManagerSystem.java src/*/*.java`
+* While inside the project run the command:  `javac -d out -sourcepath . src/FileManagerSystem.java src/*/*.java`
 
 ### Run:
 * While inside the project, navigate to the out folder by `cd /out`
