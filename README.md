@@ -9,8 +9,8 @@ This program is written by [Johnny Hoang](https://github.com/flaakan).
 * Follow the image for instuctions.
 
 ### Compile:
-* Inside the project run the command: `javac -d out -sourcepath . src/FileManagerSystem.java src/*/*.java`
+* While inside the project run the command: `javac -d out -sourcepath . src/FileManagerSystem.java src/*/*.java`
 
 ### Run:
-* Navigate to the out folder by `cd out`
+* While inside the project, navigate to the out folder by `cd /out`
 * To start the application run the command: `java FileManagerSystem`
