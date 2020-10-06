@@ -8,6 +8,8 @@ This program is written by [Johnny Hoang](https://github.com/flaakan).
 * Navigate to the project.
 * Follow the image for instuctions.
 
+![Alt text](instructions.png)
+
 ### Compile:
 * While inside the project run the command: `javac -d out -sourcepath . src/FileManagerSystem.java src/*/*.java`
 
